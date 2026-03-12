@@ -1,6 +1,6 @@
 # microGPT Visualizer
 
-An interactive visual explainer for [Andrej Karpathy's microGPT](https://github.com/karpathy/microgpt): the complete GPT algorithm in 244 lines of Python with zero dependencies.
+An interactive visual explainer for [Andrej Karpathy's microGPT](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95): the complete GPT algorithm in 244 lines of Python with zero dependencies.
 
 ![Black theme, monospace, sidebar + 3 panels](https://img.shields.io/badge/style-dark%20minimal-000?style=flat-square)
 
